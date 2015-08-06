@@ -14,9 +14,10 @@ Select DB instance class ,Multi-AZ-Deployment,Storage type and Allocated storage
 
 ![](https://cloud.githubusercontent.com/assets/13186210/9103284/f074d9ac-3c19-11e5-9707-c84035612ad0.png)
 
-We can specify name for DN instance,master username and password.![](https://
+We can specify name for DN instance,master username and password.
 ![](https://cloud.githubusercontent.com/assets/13186210/9103635/0188991e-3c1e-11e5-9c7b-30d68dcdba22.png)
 
+Configure advanced settings and create.
 ![](https://cloud.githubusercontent.com/assets/13186210/9103705/def7a290-3c1e-11e5-9f8b-e3b9849e16fa.png)
 
 
