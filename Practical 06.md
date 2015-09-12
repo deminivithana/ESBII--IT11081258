@@ -9,5 +9,15 @@ Analyzing “ABC IT Services” business strategy, IT audit specialists said to 
 
 ![](https://cloud.githubusercontent.com/assets/13186210/9829935/95a1e61e-5938-11e5-8c19-f8422b233b91.PNG)
 
-When company following this standardization process it provide the platform that company controls.
+When company following this standardization process it provide the platform that company need. 
+
+**Reliability and security**
+
+Everone expecting reliable services from a any kind of business and this will be directly beneficial to ABC IT to
+
+
+**Correct Controls over business**
+
+Provides security and management controls which will be beneficial to the staff,stakeholderes and management to take a better understanding on the business stratergy.
+ 
 
