@@ -13,7 +13,11 @@ When company following this standardization process it provide the platform that
 
 **Reliability and security**
 
-Everone expecting reliable services from a any kind of business and this will be directly beneficial to ABC IT to
+Everone expecting a  reliable services from  any kind of business and this will be directly beneficial to ABC IT to give a better services to their customeres. And also through the Plan-Do-Check-Act cycle produces managed information security outcomes that satisfy those requirements and expectations. This will be a cost effective solution and also reduce the risk of vulnerabilities being exploited.
+
+**Reduce Redundancy**
+
+Avoid having to implement basic controls repetedly and does not need to start from the scratch through standerdization .
 
 
 **Correct Controls over business**
