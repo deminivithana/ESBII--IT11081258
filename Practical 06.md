@@ -24,14 +24,15 @@ Avoid having to implement basic controls repeatedly and does not need to start f
 After analyzing ABC IT strategy they will be able to cut huge lot of data and information that is not worthy keeping. Removing those thing can help to increase your network speed and unnecessary overhead to the servers and storage.
 
 **4) Increased Profits**
-Standardization will increase perceptions of business.  Your company can trust your data as well as  your customers. Then it will give return of investment because they are now prepared to spend a little more for secure IT infrastructure.
+
+Standardization will increase perceptions of business.  Your company can trust your data as well as  your customers. Then it will give return of investment because they are now prepared to spend a little more for secure IT infrastructure.After standardization your company will become one of the globally recognized organization.
   
 
-Allows unnecessary, inappropriate or excessive controls to be relaxed or removed without unduly compromising valuable information assets 
 
-
-**Correct Controls over business**
+**5)Correct Controls over business**
 
 Provides security and management controls which will be beneficial to the staff,stakeholders and management to take a better understanding on the business strategy.
- 
 
+**6.)Increase human relationship**
+
+ Staff members will get a more confidence with the organization clear vision, mission,policies and guidelines. From this confidence  will be transparent to organization stakeholders. Then staff turnover and professionalism will be increase within the company.Then they will feel friendly and comfortable environment to stay with the company. Through this ABC IT can reduce employ leaving from the company.
